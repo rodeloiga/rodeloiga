@@ -7,6 +7,11 @@ running technology operations for art and design programs: the
 PrintFX and FabLab print operation at FIT, then systems for
 the BFA Photography and MFA Interaction Design programs at SVA.
 
+I am not a software engineer, and this shelf does not claim
+to be engineering work. I direct technical programs: I write
+the specifications and the rules of verification, and I
+review what builders and AI agents produce against them.
+
 ## What I build
 
 - AI-assisted delivery systems: structured ways for AI agents

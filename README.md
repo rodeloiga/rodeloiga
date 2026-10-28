@@ -17,12 +17,12 @@ designers, and AI agents produce against the rules.
 
 - AI-assisted delivery systems: structured ways for AI agents
   to do build work under written rules, with verification
-  built in rather than bolted on.
+  built in from the first step.
 - Agent skills: portable instructions that give an agent a
   discipline, like checking its own work or gating a release,
   instead of a suggestion.
-- Websites and small software, taken from requirements through
-  launch checks.
+- Website and small-software delivery, taken from requirements
+  through launch checks.
 
 ## Selected work
 

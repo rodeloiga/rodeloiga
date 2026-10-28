@@ -34,6 +34,14 @@ designers, and AI agents produce against the rules.
   a pre-ship consolidation discipline. Every gate's findings
   gathered into one report, blockers presented as rulings,
   advisories listed with dispositions.
+- [six-document-package](https://github.com/rodeloiga/six-document-package):
+  the standard document set Lēdor Labs manages on client
+  product work, six documents in the same order with the same
+  names, with filled fragments from one fictional product.
+- [clarity-sprint-sample](https://github.com/rodeloiga/clarity-sprint-sample):
+  a complete sample Clarity Sprint diagnostic: findings, a
+  scored opportunity map, and sequenced recommendations, for
+  a fictional studio.
 - [rodeloiga.com](https://rodeloiga.com): portfolio and case
   studies.
 
